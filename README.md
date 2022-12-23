@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Pratyush Sahu
-- 👀 I’m interested in Problem Solving, Python, Data Science and Machine Learning.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Science and Machine Learning Projects.
-- 📫 How to reach me ... My mail -> sahupratyush27@gmail.com
+- 👀 I’m currently a Software Engineer Intern at GE Healthcare.
+- 🌱 I’m a front-end developer using Angular.
+- 💞️ I’m looking to collaborate on front-end projects using any tech stack.
+- 📫 How to reach me ... My mail -> pratyushsahu.sde@gmail.com
                          Linkedin -> https://www.linkedin.com/in/pratyush-sahu-b507b616b/
 
 <!---
